@@ -1,0 +1,50 @@
+# Metadata for Surface Air Temperature - Monthly Mean
+---
+Identifier: '8ed43f95-b1a9-4b25-81d7-30c9dae895f6'
+Name: 'surface-air-temperature-monthly-mean'
+Title: 'Surface Air Temperature - Monthly Mean'
+Description: 'The monthly mean air temperature recorded at the Changi Climate Station.'
+Topics:
+  - 'Environment'
+Keywords:
+  - 'Climate'
+  - 'NEA'
+  - 'Temperature'
+  - 'Weather'
+Publisher:
+  Name: 'National Environment Agency'
+  Admin 1:
+    Name: 'Ong Chin Hong'
+    Department: 'CCRS'
+    Email: 'ong_chin_hong@nea.gov.sg'
+  Admin 2:
+    Name: 'Ang Chieng Hai'
+    Department: 'CCRS'
+    Email: 'ang_chieng_hai@nea.gov.sg'
+Sources:
+  - 'National Environment Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Monthly'
+Coverage: '1982-01-01 to 2020-06-30'
+Last Updated: '2020-07-21T02:04:58.525669'
+Resources:
+  -
+    Identifier: '07654ce7-f97f-49c9-81c6-bd41beba4e96'
+    Title: 'Surface Air Temperature - Monthly Mean'
+    Url: 'https://storage.data.gov.sg/surface-air-temperature-monthly-mean/resources/surface-air-temperature-monthly-mean-2020-07-21T02-04-58Z.csv'
+    Format: 'CSV'
+    Coverage: '1982-01-01 to 2020-06-30'
+    Last Updated: '2020-07-21T02:04:58.116872'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'mean_temp'
+        Title: 'Surface Air Temperature - Monthly Mean'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Degree Celsius'
