@@ -7,9 +7,8 @@ Surface air temperature is the temperature of the air around us, generally measu
 ![image](https://user-images.githubusercontent.com/101791322/211160165-9cd1957c-9ea8-49b3-b2fb-3b1a1bc32fe3.png)
 
 ## PYTHON IMPLIMENTATION:
-
-•	Load Data 
-•	Check The Basics of data
+- Load Data 
+-	Check The Basics of data
 
 ### Visualise Trend of Surface Air Temperature:
 
